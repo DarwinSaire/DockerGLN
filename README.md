@@ -1,4 +1,4 @@
-Create docker image with Tensorflow1.9, opencv3,  numpy and python3
+Create docker image with Tensorflow1.9,  numpy and python3
 #### Instructions
 
 ```makefile
